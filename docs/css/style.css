@@ -15,13 +15,25 @@
     margin: 1px;
 }
 
+
 #menu li {
     display: inline;
 }
 
 #banner {
-    background-color: red;
+    background-image: url("../images/happypeople.jpg") ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+    opacity: .5;
+
 }
+
+#hero-text {
+
+}
+
+
 
 #content {
     background-color: papayawhip;
